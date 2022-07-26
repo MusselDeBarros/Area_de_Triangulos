@@ -1,0 +1,14 @@
+C:\Users\Colaborador\source\repos\POO1\bin\Debug\netcoreapp3.1\POO1.exe
+C:\Users\Colaborador\source\repos\POO1\bin\Debug\netcoreapp3.1\POO1.deps.json
+C:\Users\Colaborador\source\repos\POO1\bin\Debug\netcoreapp3.1\POO1.runtimeconfig.json
+C:\Users\Colaborador\source\repos\POO1\bin\Debug\netcoreapp3.1\POO1.runtimeconfig.dev.json
+C:\Users\Colaborador\source\repos\POO1\bin\Debug\netcoreapp3.1\POO1.dll
+C:\Users\Colaborador\source\repos\POO1\bin\Debug\netcoreapp3.1\POO1.pdb
+C:\Users\Colaborador\source\repos\POO1\obj\Debug\netcoreapp3.1\POO1.csproj.AssemblyReference.cache
+C:\Users\Colaborador\source\repos\POO1\obj\Debug\netcoreapp3.1\POO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colaborador\source\repos\POO1\obj\Debug\netcoreapp3.1\POO1.AssemblyInfoInputs.cache
+C:\Users\Colaborador\source\repos\POO1\obj\Debug\netcoreapp3.1\POO1.AssemblyInfo.cs
+C:\Users\Colaborador\source\repos\POO1\obj\Debug\netcoreapp3.1\POO1.csproj.CoreCompileInputs.cache
+C:\Users\Colaborador\source\repos\POO1\obj\Debug\netcoreapp3.1\POO1.dll
+C:\Users\Colaborador\source\repos\POO1\obj\Debug\netcoreapp3.1\POO1.pdb
+C:\Users\Colaborador\source\repos\POO1\obj\Debug\netcoreapp3.1\POO1.genruntimeconfig.cache
