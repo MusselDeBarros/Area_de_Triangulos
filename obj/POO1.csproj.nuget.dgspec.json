@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Colaborador\\source\\repos\\POO1\\POO1.csproj": {}
+    "C:\\Users\\Colaborador\\Source\\Repos\\Area_de_Triangulos\\POO1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Colaborador\\source\\repos\\POO1\\POO1.csproj": {
+    "C:\\Users\\Colaborador\\Source\\Repos\\Area_de_Triangulos\\POO1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Colaborador\\source\\repos\\POO1\\POO1.csproj",
+        "projectUniqueName": "C:\\Users\\Colaborador\\Source\\Repos\\Area_de_Triangulos\\POO1.csproj",
         "projectName": "POO1",
-        "projectPath": "C:\\Users\\Colaborador\\source\\repos\\POO1\\POO1.csproj",
+        "projectPath": "C:\\Users\\Colaborador\\Source\\Repos\\Area_de_Triangulos\\POO1.csproj",
         "packagesPath": "C:\\Users\\Colaborador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Colaborador\\source\\repos\\POO1\\obj\\",
+        "outputPath": "C:\\Users\\Colaborador\\Source\\Repos\\Area_de_Triangulos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

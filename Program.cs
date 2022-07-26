@@ -34,7 +34,7 @@ namespace POO1
             double area_y = y.Area();
 
 
-           
+            Console.WriteLine(" A área do triângulo x é: " + area_x + " e a área de Y é: " + area_y);
 
             if (area_x>area_y)
             {
